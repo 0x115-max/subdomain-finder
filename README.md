@@ -23,7 +23,7 @@ keep by clicking entre or enter the name u want to save in
 
 and keep 
 
-![Screenshot_2024-09-16_06_46_42](https://github.com/user-attachments/assets/aa2395bb-398f-439f-bb5a-fff1579d8ca4)
+![Screenshot_2024-09-16_06_50_39](https://github.com/user-attachments/assets/48756505-0bd8-47ee-8def-27a91f325c3b)
 
 
    he now give u the ips if u prees entre he gonna enum the emails and numbers for u from the subs he found
